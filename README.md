@@ -25,3 +25,6 @@ Subsequently, both the X dataset and Y dataset were split into a training set an
 ## Evaluation 
 As a measurement of accuracy, Root Mean Squared Error(RMSE) was chosen. RMSE is the average distance between the predicted value from the model and the actual value recorded in the dataset. Hence, RMSE provides a reliable indication of the fitness of the model. That is, a model with a low RMSE value suggests that the model can make predictions with high accuracy. Conversely, a high RMSE value implies that the model fails to make accurate predictions. 
 
+<img width="616" alt="스크린샷 2024-01-19 오후 10 33 21" src="https://github.com/JihyunYun/Stock-Market-Price-Prediction/assets/157118602/1d76589a-9d3a-4376-bed5-632d59d7ae06">
+
+_Prediction made on the "Close" feature. _
